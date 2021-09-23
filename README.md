@@ -23,18 +23,29 @@ Ahora los amigos de Billy quieren ir a cenar a un restaurante, es entonces cuand
 
 #### Página Home
 
-Vista principal que aparece al entrar a la página
+Vista principal que aparece al entrar a la web
 
 ![home](https://user-images.githubusercontent.com/79532837/133968163-73d68160-fbe5-4f09-a49b-e975e05843cc.PNG)
 
-![home1](https://user-images.githubusercontent.com/79532837/133968111-2a122527-c7fb-4d1e-8054-790b8485a97c.PNG)
+#### Página Restaurantes
 
-![home2](https://user-images.githubusercontent.com/79532837/133968171-e98a156d-b48e-42ed-b19f-e5031119fbbb.PNG)
+Página que muestra los restaurantes disponibles
 
-![home3](https://user-images.githubusercontent.com/79532837/133968181-068db1ff-1a05-4144-8c11-a4b778fe43bb.PNG)
+![rest1](https://user-images.githubusercontent.com/79532837/134548057-cf2a5747-b146-44cc-8b91-47239beaa891.PNG)
 
-![home4](https://user-images.githubusercontent.com/79532837/133968774-bab542c1-9354-4489-a158-0746ce999348.PNG)
+![rest2](https://user-images.githubusercontent.com/79532837/134548067-1d6e3521-0ff9-4791-94cf-b8925ab91707.PNG)
 
+#### Página Contacto
+
+Página para ponerse en contacto conmigo
+
+![cont](https://user-images.githubusercontent.com/79532837/134548091-08881ad9-070e-438d-872c-d4a3d25ca58a.PNG)
+
+#### Página Gestión
+
+Página para la gestión del perfil (requiere ser usuario autorizado)
+
+![sesion](https://user-images.githubusercontent.com/79532837/134548101-9e2535e4-daa7-4da0-8a31-a214fcdedeaf.PNG)
 
 
 ### URL de Wallergy
